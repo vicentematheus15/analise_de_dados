@@ -1,5 +1,5 @@
 #dicionarios sao listas com chave e valor em vez de índices.
-#TRANSFORMANDO LISTA COM YUPLAS EM DICIONÁRIOS (para buscar por chave)
+#TRANSFORMANDO LISTA COM TUPLAS EM DICIONÁRIOS (para buscar por chave)
 personagens2 = [('Morgana', 'encantadora'), ('Darius', 'lutador'), ('Senna', 'atiradora')]
 
 personagens2_dict = dict(personagens2)
