@@ -1,0 +1,10 @@
+STRINGS: str (sequencia de caracteres)
+BOOLEANOS: bool (true e false)
+LISTAS: list (sequencias mutáveis de elementos)
+TUPLAS: tuple (sequencias imutáveis de elementos)
+CONJUNTOS: set (coloções não ordenadas de elementos únicos)
+DICIONARIOS: dict (coleçoes de pares chave-valor)
+NUMEROS:
+    int (inteiros)
+    float (ponto flutuante)
+    complex (numeros complexos)
