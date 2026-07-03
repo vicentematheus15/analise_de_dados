@@ -16,7 +16,7 @@ print(personagens)
 personagens.pop(1)
 print(personagens)
  
-
+#==============================================================================================================#
 # lista com tuplas (variáveis com 2 valores)
 #cada valor de variável é um indice, entao o primeiro personagem tem o nome no indice 0 e sua classe no índice 1
 personagens2 = [('Morgana', 'encantadora'), ('Darius', 'lutador'), ('Senna', 'atiradora')]
@@ -27,3 +27,8 @@ print(personagens2[0])
 print(personagens2[0] [0])
 #acessando o segundo valor do personagem 0
 print(personagens2[0] [1])
+
+#===============================================================================================================#
+#TRANSFORMANDO LISTA COM YUPLAS EM DICIONÁRIOS (para buscar por chave)
+personagens2_dict = dict(personagens2)
+print(personagens2_dict)
